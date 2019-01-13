@@ -1,1 +1,2 @@
 print "rishi"
+print rishi
