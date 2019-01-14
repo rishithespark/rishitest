@@ -1,2 +1,2 @@
 print "rishi"
-print rishi
+
